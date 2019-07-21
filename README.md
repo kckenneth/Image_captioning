@@ -1,6 +1,6 @@
 # Image_captioning  
-# w266 Final Project (Spring 2019) 
-# Kenneth Chen 
+## w266 Final Project (Spring 2019) 
+### Kenneth Chen 
 
 This model combines state of the art image classifier, VGG16 with RNN model built with skip-gram approach. 
 
