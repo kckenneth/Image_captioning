@@ -1,3 +1,9 @@
+|Title |  Image Captioning |
+|-----------|----------------------------------|
+|Author | Kenneth Chen, Ph.D |
+|Course | w266 Final Project |
+|Date | 7/1/2019 |
+
 # Image captioning  
 ## w266 Final Project (Spring 2019) 
 ### Kenneth Chen 
