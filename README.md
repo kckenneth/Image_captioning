@@ -37,11 +37,11 @@ I use CNN (VGG16) and RNN with 3 layers of GRU (512 size in each layer). There a
 
 ### References to at least four papers related to your proposal
 
-Karpathy, A. & Li, F.-F. (2014), 'Deep Visual-Semantic Alignments for Generating Image Descriptions.', CoRR abs/1412.2306.
+- Karpathy, A. & Li, F.-F. (2014), 'Deep Visual-Semantic Alignments for Generating Image Descriptions.', CoRR abs/1412.2306.
 
-Kiros, R.; Salakhutdinov, R. & Zemel, R. S. (2014), Multimodal Neural Language Models., in 'ICML' , JMLR.org, , pp. 595-603.
+- Kiros, R.; Salakhutdinov, R. & Zemel, R. S. (2014), Multimodal Neural Language Models., in 'ICML' , JMLR.org, , pp. 595-603.
 
-Lazaridou, A.; Pham, N. T. & Baroni, M. (2015), 'Combining Language and Vision with a Multimodal Skip-gram Model.', CoRR abs/1501.02598.
+- Lazaridou, A.; Pham, N. T. & Baroni, M. (2015), 'Combining Language and Vision with a Multimodal Skip-gram Model.', CoRR abs/1501.02598.
 
-Simonyan, K. & Zisserman, A. (2014), 'Very deep convolutional networks for large-scale image recognition', arXiv preprint arXiv:1409.1556.
+- Simonyan, K. & Zisserman, A. (2014), 'Very deep convolutional networks for large-scale image recognition', arXiv preprint arXiv:1409.1556.
 
