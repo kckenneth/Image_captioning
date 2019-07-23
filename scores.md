@@ -17,5 +17,5 @@ MRNN was trained on COCO2017 training dataset and tested on three datasets: COCO
 ### Rouge scores 
 
 <p align="center">
-<img src="img/w266_score_rouge.png" width="600"></p>
+<img src="img/w266_score_rouge.png" width="900"></p>
 <p align="left">Table 3. Rouge scores</p>
