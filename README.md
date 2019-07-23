@@ -1,7 +1,7 @@
 |Title |  Image Captioning |
 |-----------|----------------------------------|
 |Author | Kenneth Chen, Ph.D |
-|Course | w266 Final Project |
+|Course | w266 NLP Final Project |
 |Date | 7/1/2019 |
 
 # Image captioning  
