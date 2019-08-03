@@ -45,3 +45,7 @@ I use CNN (VGG16) and RNN with 3 layers of GRU (512 size in each layer). There a
 
 - Simonyan, K. & Zisserman, A. (2014), 'Very deep convolutional networks for large-scale image recognition', arXiv preprint arXiv:1409.1556.
 
+### Checkpoint 
+
+Download each checkpoints <a href="https://drive.google.com/drive/folders/1f9_EgjJH6hUhvkZreywBhE0-p7i0ZdfA?usp=sharing">Here</a>
+
